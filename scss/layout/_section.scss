@@ -1,5 +1,6 @@
 .main-section {
     background-color: lightgrey;
+    @include section-padding;
 
     .post {
         background-color: lightgreen;
